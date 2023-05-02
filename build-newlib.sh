@@ -9,10 +9,10 @@
 #Email         	:   kentosama@genku.net                                          
 ###################################################################
 
-VERSION="3.3.0"
+VERSION="4.1.0"
 ARCHIVE="newlib-${VERSION}.tar.gz"
 URL="ftp://sourceware.org/pub/newlib/${ARCHIVE}"
-SHA512SUM="2f0c6666487520e1a0af0b6935431f85d2359e27ded0d01d02567d0d1c6479f2f0e6bbc60405e88e46b92c2a18780a01a60fc9281f7e311cfd40b8d5881d629c"
+SHA512SUM="6a24b64bb8136e4cd9d21b8720a36f87a34397fd952520af66903e183455c5cf19bb0ee4607c12a05d139c6c59382263383cb62c461a839f969d23d3bc4b1d34"
 DIR="newlib-${VERSION}"
 
 # Check if user is root
